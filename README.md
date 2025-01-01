@@ -1,6 +1,6 @@
 # Diwali-Sales-Analysis
 
-<img src="https://github.com/Krupali04/Diwali-Sales-Analysis/blob/main/Diwali.webp" alt="New York Airbnb Analysis" width="600" height="300">
+<img src="https://github.com/Krupali04/Diwali-Sales-Analysis/blob/main/Diwali.webp" alt="Diwali sales Analysis" width="600" height="300">
 
 This project looks at sales data from the Diwali festival to uncover key trends and insights. The first step is cleaning the data to fix any missing or inaccurate values, making sure the dataset is reliable.
 
